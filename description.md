@@ -2,4 +2,5 @@ Las interfaces que venimos haciendo hasta ahora no son particularmente lindas :n
 
 Bueno, ¿a quien queremos engañar? Son feas, feas, feas :cry:. Son sólo texto, enlaces, e imágenes sueltas, siempre dispuestas de izquierda a derecha. ¡Ni siquiera hay **colores**! 
 
-Pero no desesperes, porque podemos hacerlo un poco mejor :smile:. ¡Empecemos!
+Pero no desesperes, porque podemos hacerlo un poco mejor :heart: :yellow_heart: :green_heart: :blue_heart:
+. ¡Empecemos!
